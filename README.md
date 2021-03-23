@@ -1,4 +1,8 @@
-### Hi there 👋
+
+### 😜 i'm gonchai...
+🧵 i'm currently learning html/css/js ...
+📅 i'm also learning reactjs...
+
 
 <!--
 **gonchai-pck/gonchai-pck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
